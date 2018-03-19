@@ -1,0 +1,20 @@
+/* PHASE 8: Thumbs */
+.friend-thumbnails li {
+  width: 60px;
+  margin: 0 0 8px 0;
+  padding: 0 6px 0 0;
+
+}
+.friend-thumbnails img {
+  border-radius: 5px;
+  border: 1px solid black;
+}
+.friend-thumbnails {
+  flex-wrap: wrap;
+  display: flex;
+
+}
+
+.friend-thumbnail:nth-child(3n + 0) {
+
+}
