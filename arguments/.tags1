@@ -1,0 +1,21 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	0	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+sum	/Users/appacademy/Desktop/W6D1/arguments/arguments.js	/^function sum(args) {$/;"	function	line:1
+sum	/Users/appacademy/Desktop/W6D1/arguments/arguments.js	/^function sum(args) {$/;"	function	line:1
+myBind	/Users/appacademy/Desktop/W6D1/arguments/arguments.js	/^Function.prototype.myBind = function (context) {$/;"	function	line:10
+_boundFn	/Users/appacademy/Desktop/W6D1/arguments/arguments.js	/^  return function _boundFn() {$/;"	function	line:14
+myBind2	/Users/appacademy/Desktop/W6D1/arguments/arguments.js	/^Function.prototype.myBind2 = function (context, ...args) {$/;"	function	line:27
+curriedSum	/Users/appacademy/Desktop/W6D1/arguments/arguments.js	/^function curriedSum(numArgs) {$/;"	function	line:35
+_curriedSum	/Users/appacademy/Desktop/W6D1/arguments/arguments.js	/^  function _curriedSum(num) {$/;"	function	line:37
+curriedSum._curriedSum	/Users/appacademy/Desktop/W6D1/arguments/arguments.js	/^  function _curriedSum(num) {$/;"	function	line:37
+curriedSum	/Users/appacademy/Desktop/W6D1/arguments/arguments.js	/^function curriedSum(numArgs) {$/;"	function	line:35
+curry	/Users/appacademy/Desktop/W6D1/arguments/arguments.js	/^Function.prototype.curry = function (numArgs) {$/;"	function	line:56
+_curriedFn	/Users/appacademy/Desktop/W6D1/arguments/arguments.js	/^  function _curriedFn(arg) {$/;"	function	line:59
+function._curriedFn	/Users/appacademy/Desktop/W6D1/arguments/arguments.js	/^  function _curriedFn(arg) {$/;"	function	line:59
+constructor	/Users/appacademy/Desktop/W6D1/arguments/arguments.js	/^  constructor(name) {$/;"	function	line:71
+meow	/Users/appacademy/Desktop/W6D1/arguments/arguments.js	/^  meow() {$/;"	function	line:75
+curry2	/Users/appacademy/Desktop/W6D1/arguments/arguments.js	/^Function.prototype.curry2 = function (numArgs) {$/;"	function	line:87
